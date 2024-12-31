@@ -12,7 +12,7 @@ Non-Demented: 67,200 images
 Very Mild Dementia: 13,700 images
 Mild Dementia: 5,002 images
 Moderate Dementia: 488 images
-The dataset is available at: OASIS dataset.
+The dataset is available at: OASIS dataset: https://sites.wustl.edu/oasisbrains.
 
 # Project Goals
 Classification: Classify the severity of Alzheimer’s disease into four stages using MRI scans.
